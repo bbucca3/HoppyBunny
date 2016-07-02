@@ -9,6 +9,8 @@
 import UIKit
 import SpriteKit
 
+//Hold down shift while dragging an object to disable snapping
+
 class GameViewController: UIViewController {
 
     override func viewDidLoad() {
